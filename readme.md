@@ -15,7 +15,7 @@
 
 ## Deployment
 - **Contract Address**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x18D91D6d0451072aB772680825e15d6350192d86)
-- **Coin Used**: ETH (Sepolia Testnet ETH)
+- **Coin Used**: MNT (Mantle Sepolia Testnet MNT)
 
 ## How to Use
 1. **Register Intellectual Property**: Users can register IPs with details like title, description, and owner information.
