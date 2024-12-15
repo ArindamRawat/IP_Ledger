@@ -38,6 +38,12 @@ The frontend enables users to interact with the IP management smart contract via
 - Multi-signature wallet support for shared ownership of IPs.
 - Support for royalty tracking and automated payments for licensed IP.
 
+**images**
+![Ip1](https://github.com/user-attachments/assets/42d5c4f4-fb69-4c27-a531-9c5ed8ab1e26)
+
+
+![IP2](https://github.com/user-attachments/assets/c2e86ca1-3f3d-41a5-99e6-1eef3ee3dda2)
+
 ---
 
 **ip_ledger** is your secure and decentralized solution to managing intellectual property in the modern era. Start protecting your ideas today!
