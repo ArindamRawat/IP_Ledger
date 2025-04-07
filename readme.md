@@ -10,12 +10,12 @@
 - Built with Solidity smart contracts and integrates seamlessly with Web3-enabled wallets.
 
 ## Contract Details
-- **Contract Address**: `0x18D91D6d0451072aB772680825e15d6350192d86`
-- **Network**: Ethereum Testnet (Mantle Sepolia)
+- **Contract Address**: `0x08c43Ae19ef3be96dc7C387970C6b0744CC2c488`
+- **Network**: EDU chain
 
 ## Deployment
-- **Contract Address**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x18D91D6d0451072aB772680825e15d6350192d86)
-- **Coin Used**: MNT (Mantle Sepolia Testnet MNT)
+- **Contract Address**: [View on Explorer](https://edu-chain-testnet.blockscout.com/address/0x08c43Ae19ef3be96dc7C387970C6b0744CC2c488)
+- **Coin Used**: EDU
 
 ## How to Use
 1. **Register Intellectual Property**: Users can register IPs with details like title, description, and owner information.
